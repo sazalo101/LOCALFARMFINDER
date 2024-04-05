@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+`Unzip the file`
 
 ## Available Scripts
 
